@@ -1,0 +1,10 @@
+#hero{
+    height: 50%;
+    background-image: url("https://fastly.picsum.photos/id/238/600/400.jpg?hmac=YDvm3Oy3RgqU50CB9k5gGhX6W9l-R7Ssj8-ootm-HS4");
+text-align: center;
+padding: 2%;
+}
+#hero input {
+    border-radius: 10px;
+    width: 35%;
+}
